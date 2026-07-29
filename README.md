@@ -1,5 +1,11 @@
 # Business & AI Solutions Portfolio
 
+
+Entwicklung strukturierter, skalierbarer und KI‑gestützter Lösungen, die komplexe fachliche Anforderungen in praktische Entscheidungssysteme überführen.
+
+
+---
+
 Dieses Repository bietet einen Überblick über ausgewählte Projekte aus den Bereichen **Business Analysis**, **Business Intelligence**, **Prozessoptimierung** und **KI‑gestützte Lösungsentwicklung**.
 
 Die Projekte folgen einem gemeinsamen Ansatz:
