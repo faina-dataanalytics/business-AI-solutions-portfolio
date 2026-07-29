@@ -27,8 +27,7 @@ Konzept einer KI‑basierten Lösung zur automatisierten Dokumentanalyse und fac
 - Document Intelligence  
 - Decision Support  
 
-➡ Repository
-
+➡ [Zum Repository](https://github.com/faina-dataanalytics/review-of-funding-application)
 ---
 
 ### AI Knowledge Platform
@@ -40,7 +39,7 @@ Konzept einer unternehmensweiten Wissensplattform, die mittels RAG‑Architektur
 - Retrieval‑Augmented Generation (RAG)  
 - KI‑Solution Design  
 
-➡ Repository
+➡ [Zum Repository](https://github.com/faina-dataanalytics/enterprise-knowledge-platform-concept)
 
 ---
 
@@ -52,21 +51,14 @@ Prototyp eines Entscheidungssystems, das Predictive Analytics nutzt, um den erwa
 - Decision Support  
 - Predictive Analytics  
 
-➡ Repository
-
----
-
-### Standardisierung der Unternehmensberichterstattung
-Entwicklung eines standardisierten Reporting‑Frameworks zur organisationsweiten Vergleichbarkeit von KPIs.
-
-➡ Repository
+➡ [Zum Repository](https://github.com/faina-dataanalytics/public-procurement-analytics)
 
 ---
 
 ### Digitales Medienreporting
 Digitalisierung und Standardisierung von Medienreporting‑Prozessen zur Verbesserung von Datenqualität und Reporting‑Effizienz.
 
-➡ Repository
+➡ [Zum Repository](https://github.com/faina-dataanalytics/standardization-of-corporate-reporting)
 
 ---
 
