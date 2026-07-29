@@ -1,92 +1,91 @@
 # Business & AI Solutions Portfolio
 
-This repository provides an overview of selected projects focused on Business Analysis, Business Intelligence, Process Optimization and AI-supported solution design.
+Dieses Repository bietet einen Überblick über ausgewählte Projekte aus den Bereichen **Business Analysis**, **Business Intelligence**, **Prozessoptimierung** und **KI‑gestützte Lösungsentwicklung**.
 
-The projects demonstrate a common approach:
+Die Projekte folgen einem gemeinsamen Ansatz:
 
-> **Structure complex information. Simplify processes. Support better decisions.**
+> **Komplexe Informationen strukturieren. Prozesse vereinfachen. Bessere Entscheidungen unterstützen.**
 
-Rather than focusing on individual technologies, they illustrate how business requirements can be transformed into scalable analytical and AI-driven solutions.
+Anstatt einzelne Technologien in den Mittelpunkt zu stellen, zeigen die Projekte, wie sich fachliche Anforderungen in skalierbare analytische und KI‑gestützte Lösungen übersetzen lassen.
 
 ---
 
-## Featured Projects
+## Ausgewählte Projekte
 
-### AI-supported Grant Application Assessment
-Concept of an AI-supported solution for automated document analysis and expert pre-assessment of funding applications.
+### KI‑gestützte Bewertung von Förderanträgen
+Konzept einer KI‑basierten Lösung zur automatisierten Dokumentanalyse und fachlichen Vorbewertung von Förderanträgen.
 
-**Focus**
-- Business Analysis
-- AI Solution Design
-- Document Intelligence
-- Decision Support
+**Schwerpunkte**
+- Business Analysis  
+- KI‑Solution Design  
+- Document Intelligence  
+- Decision Support  
 
 ➡ Repository
 
 ---
 
-### Atlas – AI Knowledge Platform
-Concept of an enterprise knowledge platform providing intelligent access to distributed documentation using RAG architecture.
+### AI Knowledge Platform
+Konzept einer unternehmensweiten Wissensplattform, die mittels RAG‑Architektur einen intelligenten Zugriff auf verteilte Dokumentation ermöglicht.
 
-**Focus**
-- Knowledge Management
-- Information Architecture
-- Retrieval-Augmented Generation (RAG)
-- AI Solution Design
-
-➡ Repository
-
----
-
-### AI-supported Decision Support for Public Procurement
-Prototype of a decision support system combining predictive analytics with explainable AI to assess expected competition in public procurement.
-
-**Focus**
-- Business Analytics
-- Decision Support
-- Predictive Analytics
-- Explainable AI
+**Schwerpunkte**
+- Wissensmanagement  
+- Informationsarchitektur  
+- Retrieval‑Augmented Generation (RAG)  
+- KI‑Solution Design  
 
 ➡ Repository
 
 ---
 
-### Standardization of Corporate Reporting
-Development of a standardized reporting framework enabling organization-wide KPI comparison.
+### Unterstützung im öffentlichen Beschaffungswesen
+Prototyp eines Entscheidungssystems, das Predictive Analytics nutzt, um den erwarteten Wettbewerb in Vergabeverfahren einzuschätzen.
+
+**Schwerpunkte**
+- Business Analytics  
+- Decision Support  
+- Predictive Analytics  
 
 ➡ Repository
 
 ---
 
-### Digital Media Reporting
-Digitalization and standardization of media reporting processes to improve data quality and reporting efficiency.
+### Standardisierung der Unternehmensberichterstattung
+Entwicklung eines standardisierten Reporting‑Frameworks zur organisationsweiten Vergleichbarkeit von KPIs.
 
 ➡ Repository
 
 ---
 
-### Workflow Automation for Print Production
-Design of an automated workflow covering quotation, calculation and generation of production documents.
+### Digitales Medienreporting
+Digitalisierung und Standardisierung von Medienreporting‑Prozessen zur Verbesserung von Datenqualität und Reporting‑Effizienz.
 
 ➡ Repository
 
 ---
 
-## Methodological Focus
+### Workflow‑Automatisierung für Printproduktion
+Konzeption eines automatisierten Workflows für Angebotserstellung, Kalkulation und Generierung von Produktionsunterlagen.
 
-Across all projects, the same principles guide the solution design:
+➡ Repository
 
-- Business requirements analysis
-- Information structuring
-- Process standardization
-- Data-driven decision support
-- Automation of repetitive activities
-- Scalable solution architecture
+---
+
+## Methodische Schwerpunkte
+
+Alle Projekte folgen denselben Grundprinzipien der Lösungsentwicklung:
+
+- Analyse fachlicher Anforderungen  
+- Strukturierung von Informationen  
+- Prozessstandardisierung  
+- Datengetriebene Entscheidungsunterstützung  
+- Automatisierung repetitiver Tätigkeiten  
+- Skalierbare Lösungsarchitektur  
 
 ---
 
 ## Portfolio
 
-The complete portfolio is available here:
+Das vollständige Portfolio ist hier verfügbar:
 
-➡ Portfolio Website 
+➡ Portfolio‑Website
