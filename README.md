@@ -28,6 +28,7 @@ Konzept einer KI‑basierten Lösung zur automatisierten Dokumentanalyse und fac
 - Decision Support  
 
 ➡ [Zum Repository](https://github.com/faina-dataanalytics/review-of-funding-application)
+
 ---
 
 ### AI Knowledge Platform
@@ -60,12 +61,6 @@ Digitalisierung und Standardisierung von Medienreporting‑Prozessen zur Verbess
 
 ➡ [Zum Repository](https://github.com/faina-dataanalytics/standardization-of-corporate-reporting)
 
----
-
-### Workflow‑Automatisierung für Printproduktion
-Konzeption eines automatisierten Workflows für Angebotserstellung, Kalkulation und Generierung von Produktionsunterlagen.
-
-➡ Repository
 
 ---
 
@@ -86,4 +81,4 @@ Alle Projekte folgen denselben Grundprinzipien der Lösungsentwicklung:
 
 Das vollständige Portfolio ist hier verfügbar:
 
-➡ Portfolio‑Website
+➡ [Portfolio‑Website](https://faina-dataanalytics.github.io/portfolio/)
