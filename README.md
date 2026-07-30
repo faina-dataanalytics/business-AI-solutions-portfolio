@@ -40,7 +40,7 @@ Konzept einer unternehmensweiten Wissensplattform, die mittels RAG‑Architektur
 - Retrieval‑Augmented Generation (RAG)  
 - KI‑Solution Design  
 
-➡ [Zum Repository](https://github.com/faina-dataanalytics/enterprise-knowledge-platform-concept)
+➡ [Zum Repository](https://github.com/faina-dataanalytics/knowledge-platform-concept)
 
 ---
 
