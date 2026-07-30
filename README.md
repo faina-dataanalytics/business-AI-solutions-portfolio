@@ -59,7 +59,7 @@ Prototyp eines Entscheidungssystems, das Predictive Analytics nutzt, um den erwa
 ### Digitales Medienreporting
 Digitalisierung und Standardisierung von Medienreporting‑Prozessen zur Verbesserung von Datenqualität und Reporting‑Effizienz.
 
-➡ [Zum Repository](https://github.com/faina-dataanalytics/standardization-of-corporate-reporting)
+➡ [Zum Repository](https://github.com/faina-dataanalytics/prozess_mediazvit)
 
 
 ---
