@@ -64,6 +64,7 @@ Digitalisierung und Standardisierung von Medienreporting‑Prozessen zur Verbess
 
 ---
 
+
 ## Methodische Schwerpunkte
 
 Alle Projekte folgen denselben Grundprinzipien der Lösungsentwicklung:
@@ -79,6 +80,6 @@ Alle Projekte folgen denselben Grundprinzipien der Lösungsentwicklung:
 
 ## Portfolio
 
-Das vollständige Portfolio ist hier verfügbar:
+Das Portfolio ist hier verfügbar:
 
 ➡ [Portfolio‑Website](https://faina-dataanalytics.github.io/portfolio/)
