@@ -66,8 +66,8 @@ Digitalisierung und Standardisierung von Medienreporting‑Prozessen zur Verbess
 ### Weitere Analyseprojekte
 Zusätzliche Projekte aus den Bereichen Business Analytics, KI‑Automatisierung, Datenmodellierung und Entscheidungsunterstützung sind in den entsprechenden Repositories verfügbar:
 
-[Staatliche Zielprogramm zur Entwicklung des öffentlichen Dienstes](https://github.com/faina-dataanalytics/programm-civil-servise)
-[Standardisierung des Unternehmensberichtswesens](https://github.com/faina-dataanalytics/standardization-of-corporate-reporting)
+➡ [Staatliche Zielprogramm zur Entwicklung des öffentlichen Dienstes](https://github.com/faina-dataanalytics/programm-civil-servise)
+➡ [Standardisierung des Unternehmensberichtswesens](https://github.com/faina-dataanalytics/standardization-of-corporate-reporting)
 
 ---
 
